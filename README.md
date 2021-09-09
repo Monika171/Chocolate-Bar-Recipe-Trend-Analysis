@@ -2,10 +2,12 @@
 
 # CHOCOLATE BAR RECIPE TREND ANALYSIS <br> (2006-2020)
 
+</p>
+<p align="center">
+
 <img src="https://image.shutterstock.com/image-photo/chocolate-bar-pieces-cocoa-beans-600w-1303588735.jpg"/>
 
 </p>
-
 <p>
 
 ## <u>According to Flavors of Cacao Rating Scale:</u>
