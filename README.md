@@ -1,20 +1,20 @@
-<center><p>
+<p align="center">
 
 # CHOCOLATE BAR RECIPE TREND ANALYSIS <br> (2006-2020)
 
 <img src="https://image.shutterstock.com/image-photo/chocolate-bar-pieces-cocoa-beans-600w-1303588735.jpg"/>
 
-</p></center>
+</p>
 
 <p>
-|-----------------------------------------------|
-|  <u>According to Flavors of Cacao Rating Scale:</u>  |
-|  4.0 - 5.0  =  Outstanding                    |
-|  3.5 - 3.9  =  Highly Recommended             |
-|  3.0 - 3.49 =  Recommended                    |
-|  2.0 - 2.9  =  Disappointing                  |
-|  1.0 - 1.9  =  Unpleasant                     |
-|-----------------------------------------------|
+
+## <u>According to Flavors of Cacao Rating Scale:</u>
+
+4.0 - 5.0  =  Outstanding <br>
+3.5 - 3.9  =  Highly Recommended <br>
+3.0 - 3.49 =  Recommended <br>
+2.0 - 2.9  =  Disappointing <br>
+1.0 - 1.9  =  Unpleasant <br>
 
 </p>
 
